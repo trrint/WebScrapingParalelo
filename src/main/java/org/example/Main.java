@@ -77,7 +77,7 @@ public class Main {
             }
         }
 
-        // Encerra o programa
+        // Encerra o programa!
         executorService.shutdown();
     }
 }
